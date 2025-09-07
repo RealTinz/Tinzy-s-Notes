@@ -1,1 +1,1 @@
-# Tinzy-s-Notes
+put this in the mods folder. 
