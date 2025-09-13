@@ -1,0 +1,1 @@
+put the folder "[V-Slice] Tinzy Notes" in the "mods" folder. (make sure its not the zip file) it theres no "mods" folder,make it urself if it wont let u put it delete the mods folder then make ur own folder titled "mods"
